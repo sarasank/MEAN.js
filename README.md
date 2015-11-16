@@ -1,2 +1,2 @@
 # MEAN.js
-Learning MEAN.js
+This tutorial is for learning MEAN.js 
